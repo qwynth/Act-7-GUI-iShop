@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\iShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|c:\\users\\acer\\source\\repos\\ishop\\ishop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|solutionrelative:ishop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|c:\\users\\acer\\source\\repos\\ishop\\ishop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|solutionrelative:ishop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|c:\\users\\acer\\source\\repos\\ishop\\ishop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|solutionrelative:ishop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|c:\\users\\acer\\source\\repos\\ishop\\ishop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CB6CC774-E9AF-43CE-9692-7465A528A1B1}|iShop\\iShop.csproj|solutionrelative:ishop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form1.cs",
+              "RelativeDocumentMoniker": "iShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form1.cs",
+              "RelativeToolTip": "iShop\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA+wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:06:37.218Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form3.cs",
+              "RelativeDocumentMoniker": "iShop\\Form3.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form3.cs [Design]",
+              "RelativeToolTip": "iShop\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:23:53.975Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form3.cs",
+              "RelativeDocumentMoniker": "iShop\\Form3.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form3.cs",
+              "RelativeToolTip": "iShop\\Form3.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA+wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T14:35:32.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form1.cs",
+              "RelativeDocumentMoniker": "iShop\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\iShop\\iShop\\Form1.cs [Design]",
+              "RelativeToolTip": "iShop\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:07:55.354Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
